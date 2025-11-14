@@ -29,7 +29,7 @@ Students will use this repository to complete assignments, evaluate their soluti
 - **Code**
   All code implementation placed in a Jupyter Notebook file named:
   ```
-  irws_{homework_id}.ipynb
+  IRWS_{homework_id}.ipynb
   ```
 ---
 
@@ -41,7 +41,7 @@ Because of **automatic AI-based evaluation**, all students must:
 - Place the following files in the repository for each homework:  
   - `irws_{homework_id}_best_value.csv`  
   - `irws_{homework_id}_report.pdf`
-  - `irws_{homework_id}.ipynb`
+  - `IRWS_{homework_id}.ipynb`
   
 
 ⚠️ **If any student does not follow these instructions, their exercises will not be reviewed.**
