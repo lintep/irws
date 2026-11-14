@@ -100,7 +100,7 @@ Students are required to:
 ## 📚 References
 
 - [BEIR: Benchmarking IR](https://github.com/beir-cellar/beir)  
-- [Hamshahri Corpus](http://ece.ut.ac.ir/dbrg/hamshahri/)  
+- [Hamshahri Corpus](https://dbrg.ir/hamshahri/)  
 - Manning, Raghavan, and Schütze – *Introduction to Information Retrieval*  
 
 ---
